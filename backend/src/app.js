@@ -18,9 +18,7 @@ app.use(cookieParser())
 // routes Import 👇
 
 
-
 //Routes Declaration 👇
-
 
 
 export {app};
